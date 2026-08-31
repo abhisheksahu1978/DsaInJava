@@ -12,7 +12,7 @@ public class LinearSearch{
             }
         }
         if(num){
-            System.out.print("44");
+            System.out.print("Element found");
         }else{
             System.out.print("denied");
         }
